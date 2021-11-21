@@ -1,5 +1,4 @@
 # facebook_scraping_service
-facebook pages scraping service with fastapi
 
 type these commands to dockerize the app and run it
 
