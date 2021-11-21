@@ -1,4 +1,4 @@
-# facebook_scraping_service
+# facebook_scrapping_service
 
 Run ```python ./app/main.py``` to launch the app after installing the requirements ( ```pip install requirements.txt ```)
 
