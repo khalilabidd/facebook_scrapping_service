@@ -14,4 +14,4 @@ if the webpage doesn't load change host parameter in main.py to '0.0.0.0'
 
 The app load the posts from a facebook public page and store it in a database.
 
-Once you run the app add the name of the page to the address bar.
+Once you run the app add the name of the page you want to scrape to the address bar.
